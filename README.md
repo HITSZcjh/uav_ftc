@@ -39,3 +39,14 @@ To validate the trained policy in simulation:
 - `numpy`              1.24.4
 
 ---
+
+## Citing
+**If you use this code in an academic work, please cite:**
+
+```bibtex
+@article{chen2025learning,
+  title={Learning-Based Passive Fault-Tolerant Control of a Quadrotor with Rotor Failure},
+  author={Chen, Jiehao and Zhao, Kaidong and Liu, Zihan and Li, YanJie and Lou, Yunjiang},
+  journal={arXiv preprint arXiv:2503.02649},
+  year={2025}
+}
